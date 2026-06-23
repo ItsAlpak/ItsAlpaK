@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Anthony Junior 👋
+## Desarrollador Web Full Stack | Especialista en Sistemas a Medida
 
-<!--
-**ItsAlpak/ItsAlpaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me enfoco en transformar ideas en plataformas funcionales. Me apasiona automatizar procesos, gestionar bases de datos y crear software que resuelva problemas reales para negocios e instituciones.
 
-Here are some ideas to get you started:
+### 💻 Stack Tecnológico
+*   **Frontend:** React.js, JavaScript, HTML5, CSS3
+*   **Backend:** Node.js, Python
+*   **Bases de Datos:** PostgreSQL, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Proyectos Destacados
+
+*   **Billetera Digital y Sistema de Pedidos:** Desarrollo Full Stack de un sistema web integral para el Cambridge College. Cuenta con inicio de sesión multi-rol (Administrador, Cocina, Alumnos) e integración de pagos locales (Yape/Plin) para digitalizar todo el flujo de caja y entregas. *(React, Node.js, PostgreSQL)*
+*   **Asistente Virtual con IA ("ABI") [🚧 En Desarrollo]:** Desarrollo estructurado desde cero de una inteligencia artificial personalizada. Integrando control por voz para la gestión total del entorno de escritorio, dispositivos y automatización de tareas diarias. *(Python)*
+
+### 📫 ¿Hablamos?
+*   💼 [Conecta conmigo en LinkedIn](https://github.com/ItsAlpak)
+*   📧 Escríbeme a: thonyipalba@gmail.com
+
+---
+⭐️ *Construyendo soluciones eficientes desde Lima, Perú.*

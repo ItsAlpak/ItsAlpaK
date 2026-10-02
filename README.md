@@ -38,27 +38,33 @@ Me interesa transformar necesidades reales en productos funcionales, combinando 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
-### WEB
+<h3>WEB</h3>
 
+<p>
 Aplicaciones y plataformas web orientadas a necesidades específicas.
+</p>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
-### SISTEMAS
+<h3>SISTEMAS</h3>
 
+<p>
 Soluciones a medida adaptadas a los procesos de cada proyecto.
+</p>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
-### MICROAPPS
+<h3>MICROAPPS</h3>
 
+<p>
 Herramientas pequeñas y especializadas para resolver tareas concretas.
+</p>
 
 </td>
 
@@ -66,27 +72,33 @@ Herramientas pequeñas y especializadas para resolver tareas concretas.
 
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
-### AUTOMATIZACIÓN
+<h3>AUTOMATIZACIÓN</h3>
 
+<p>
 Procesos y herramientas diseñadas para reducir tareas repetitivas.
+</p>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
-### DATOS
+<h3>DATOS</h3>
 
+<p>
 Diseño y gestión de estructuras de datos para aplicaciones y sistemas.
+</p>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="middle">
 
-### IA
+<h3>IA</h3>
 
+<p>
 Exploración y desarrollo de soluciones basadas en inteligencia artificial.
+</p>
 
 </td>
 
@@ -101,11 +113,11 @@ Exploración y desarrollo de soluciones basadas en inteligencia artificial.
 
 <br>
 
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32" />
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=68A063" height="32" />
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" height="32" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="32" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" height="38" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="38" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=68A063" height="38" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" height="38" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="38" />
 
 </div>
 
@@ -120,43 +132,75 @@ Exploración y desarrollo de soluciones basadas en inteligencia artificial.
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
-<h3 align="center">Billetera Digital & Sistema de Pedidos</h3>
+<div align="center">
 
-Sistema web integral desarrollado para **Cambridge College**.
+<br>
 
+<h3>💳 Billetera Digital & Sistema de Pedidos</h3>
+
+<p>
+Sistema web integral desarrollado para <strong>Cambridge College</strong>.
+</p>
+
+<p>
 Plataforma orientada a la gestión de usuarios, recargas, pedidos y operaciones dentro del entorno institucional.
+</p>
 
-**Componentes principales**
+<strong>Componentes principales</strong>
 
-- Autenticación y control de acceso por roles
-- Panel administrativo
-- Gestión de usuarios y permisos
-- Módulo de recargas
-- Gestión de pedidos
-- Integración de pagos mediante Yape / Plin
-- Gestión del flujo de atención y preparación
+<ul align="left">
+<li>Autenticación y control de acceso por roles</li>
+<li>Panel administrativo</li>
+<li>Gestión de usuarios y permisos</li>
+<li>Módulo de recargas</li>
+<li>Gestión de pedidos</li>
+<li>Integración de pagos mediante Yape / Plin</li>
+<li>Gestión del flujo de atención y preparación</li>
+</ul>
 
-**Stack**
+<strong>Stack</strong>
 
-`React` · `Node.js` · `PostgreSQL`
+<br><br>
+
+<code>React</code> · <code>Node.js</code> · <code>PostgreSQL</code>
+
+<br><br>
+
+</div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
-<h3 align="center">🤖 ABI — Asistente Virtual</h3>
+<div align="center">
 
-<p align="center"><strong>🚧 En desarrollo</strong></p>
+<br>
 
+<h3>🤖 ABI — Asistente Virtual</h3>
+
+<p>
+<strong>🚧 En desarrollo</strong>
+</p>
+
+<p>
 Proyecto de asistente virtual desarrollado desde cero para explorar interacción mediante voz, automatización y control del entorno de escritorio.
+</p>
 
+<p>
 El proyecto continúa en desarrollo y sus funcionalidades se irán ampliando progresivamente.
+</p>
 
-**Tecnología principal**
+<strong>Tecnología principal</strong>
 
-`Python`
+<br><br>
+
+<code>Python</code>
+
+<br><br><br><br>
+
+</div>
 
 </td>
 

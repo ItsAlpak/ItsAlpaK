@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:1f2937&height=190&section=header&text=ALPAK.EXE&fontSize=58&fontColor=ffffff&fontAlignY=42&desc=WEB%20%26%20TOOLS&descSize=18&descAlignY=66&descColor=9ca3af" alt="ALPAK.EXE" width="100%" />
+<h1>🦙 &nbsp;A L P A K . E X E</h1>
 
-<h1>🦙</h1>
+<h3>W E B &nbsp;&&nbsp; T O O L S</h3>
 
 **Desarrollo web &nbsp;·&nbsp; Sistemas a medida &nbsp;·&nbsp; Microapps &nbsp;·&nbsp; Automatización**
 
@@ -38,37 +38,43 @@ Me interesa transformar necesidades reales en productos funcionales,<br>combinan
 <table align="center">
 <tr>
 
-<td align="center" valign="middle" width="33%" height="150">
-<h3>🌐<br>WEB</h3>
-Aplicaciones y plataformas web<br>orientadas a necesidades específicas.
+<td align="center" valign="middle" width="33%" height="140">
+<b>WEB</b>
+<br><br>
+Aplicaciones y plataformas web orientadas a necesidades específicas.
 </td>
 
-<td align="center" valign="middle" width="33%" height="150">
-<h3>⚙️<br>SISTEMAS</h3>
-Soluciones a medida adaptadas<br>a los procesos de cada proyecto.
+<td align="center" valign="middle" width="33%" height="140">
+<b>SISTEMAS</b>
+<br><br>
+Soluciones a medida adaptadas a los procesos de cada proyecto.
 </td>
 
-<td align="center" valign="middle" width="33%" height="150">
-<h3>🧩<br>MICROAPPS</h3>
-Herramientas pequeñas y especializadas<br>para resolver tareas concretas.
+<td align="center" valign="middle" width="33%" height="140">
+<b>MICROAPPS</b>
+<br><br>
+Herramientas pequeñas y especializadas para resolver tareas concretas.
 </td>
 
 </tr>
 <tr>
 
-<td align="center" valign="middle" width="33%" height="150">
-<h3>⚡<br>AUTOMATIZACIÓN</h3>
-Procesos y herramientas diseñadas<br>para reducir tareas repetitivas.
+<td align="center" valign="middle" width="33%" height="140">
+<b>AUTOMATIZACIÓN</b>
+<br><br>
+Procesos y herramientas diseñadas para reducir tareas repetitivas.
 </td>
 
-<td align="center" valign="middle" width="33%" height="150">
-<h3>🗄️<br>DATOS</h3>
-Diseño y gestión de estructuras de datos<br>para aplicaciones y sistemas.
+<td align="center" valign="middle" width="33%" height="140">
+<b>DATOS</b>
+<br><br>
+Diseño y gestión de estructuras de datos para aplicaciones y sistemas.
 </td>
 
-<td align="center" valign="middle" width="33%" height="150">
-<h3>🧠<br>IA</h3>
-Exploración y desarrollo de soluciones<br>basadas en inteligencia artificial.
+<td align="center" valign="middle" width="33%" height="140">
+<b>IA</b>
+<br><br>
+Exploración y desarrollo de soluciones basadas en inteligencia artificial.
 </td>
 
 </tr>
@@ -82,41 +88,17 @@ Exploración y desarrollo de soluciones<br>basadas en inteligencia artificial.
 
 <br>
 
-<table align="center">
-<tr>
-
-<td align="center" valign="middle" width="140" height="130">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="64" height="64" alt="React" />
-<br><br>
-<b>React</b>
-</td>
-
-<td align="center" valign="middle" width="140" height="130">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="64" height="64" alt="JavaScript" />
-<br><br>
-<b>JavaScript</b>
-</td>
-
-<td align="center" valign="middle" width="140" height="130">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="64" height="64" alt="Node.js" />
-<br><br>
-<b>Node.js</b>
-</td>
-
-<td align="center" valign="middle" width="140" height="130">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="64" height="64" alt="Python" />
-<br><br>
-<b>Python</b>
-</td>
-
-<td align="center" valign="middle" width="140" height="130">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="64" height="64" alt="PostgreSQL" />
-<br><br>
-<b>PostgreSQL</b>
-</td>
-
-</tr>
-</table>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="72" height="72" title="React" alt="React" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="72" height="72" title="JavaScript" alt="JavaScript" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="72" height="72" title="Node.js" alt="Node.js" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="72" height="72" title="Python" alt="Python" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="72" height="72" title="PostgreSQL" alt="PostgreSQL" />
+</p>
 
 </div>
 
@@ -140,9 +122,7 @@ Exploración y desarrollo de soluciones<br>basadas en inteligencia artificial.
 <img src="https://img.shields.io/badge/Tipo-Sistema%20web%20integral-111827?style=flat-square" />
 </p>
 
-Sistema web integral desarrollado para **Cambridge College**.
-
-Plataforma orientada a la gestión de usuarios, recargas, pedidos y operaciones institucionales.
+Sistema web integral desarrollado para **Cambridge College**, orientado a la gestión de usuarios, recargas, pedidos y operaciones institucionales.
 
 **Incluye**
 
@@ -168,18 +148,16 @@ Plataforma orientada a la gestión de usuarios, recargas, pedidos y operaciones 
 <img src="https://img.shields.io/badge/Tipo-Asistente%20personal%20local-111827?style=flat-square" />
 </p>
 
-Asistente virtual personal desarrollado desde cero, pensado para funcionar en local y sin depender de servicios de pago en la nube.
-
-Explora la interacción mediante voz, la automatización y el control del entorno de escritorio.
+Asistente virtual personal desarrollado desde cero para funcionar en local, explorando voz, automatización y control del entorno de escritorio.
 
 **Incluye**
 
-- 🧠 Modelo de lenguaje local con Ollama (Qwen 2.5)
-- 🎭 Identidad y personalidad propias, en español
+- 🧠 IA local con Ollama (Qwen 2.5)
+- 🎭 Identidad y personalidad propias en español
 - 💾 Memoria persistente de conversaciones
-- 🖥️ Automatización de escritorio con acciones permitidas (lista blanca)
-- 🎙️ Interacción por voz en español · *Próximamente*
-- 📱 Acceso desde múltiples dispositivos · *Próximamente*
+- 🖥️ Automatización de escritorio con lista blanca
+- 🎙️ Interacción por voz · *Próximamente*
+- 📱 Acceso multidispositivo · *Próximamente*
 
 **Stack**
 
@@ -217,7 +195,5 @@ Un espacio para experimentar, construir y convertir nuevas ideas en proyectos di
 <br>
 
 Lima, Perú · **thonyipalba@gmail.com**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:111827,100:0d1117&height=90&section=footer" width="100%" alt="" />
 
 </div>

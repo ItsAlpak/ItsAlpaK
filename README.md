@@ -23,9 +23,15 @@ Construyo soluciones digitales para convertir ideas y necesidades reales en herr
 
 </div>
 
-Soy **Anthony Ipenza**, desarrollador enfocado en la creación de **sistemas web, soluciones a medida y herramientas digitales**.
+<p align="center">
+Soy <strong>Anthony Ipenza</strong>, desarrollador enfocado en la creación de
+<strong>sistemas web, soluciones a medida y herramientas digitales</strong>.
+</p>
 
-Me interesa transformar necesidades reales en productos funcionales, combinando desarrollo, automatización y gestión de datos.
+<p align="center">
+Me interesa transformar necesidades reales en productos funcionales,
+combinando desarrollo, automatización y gestión de datos.
+</p>
 
 ---
 
@@ -35,36 +41,34 @@ Me interesa transformar necesidades reales en productos funcionales, combinando 
 
 </div>
 
-<table>
+<table align="center" width="100%" cellpadding="18">
+
 <tr>
 
-<td align="center" width="33%" valign="middle">
+<td align="center" valign="middle" width="33%">
 
 <h3>WEB</h3>
 
-<p>
-Aplicaciones y plataformas web orientadas a necesidades específicas.
-</p>
+Aplicaciones y plataformas web<br>
+orientadas a necesidades específicas.
 
 </td>
 
-<td align="center" width="33%" valign="middle">
+<td align="center" valign="middle" width="33%">
 
 <h3>SISTEMAS</h3>
 
-<p>
-Soluciones a medida adaptadas a los procesos de cada proyecto.
-</p>
+Soluciones a medida adaptadas<br>
+a los procesos de cada proyecto.
 
 </td>
 
-<td align="center" width="33%" valign="middle">
+<td align="center" valign="middle" width="33%">
 
 <h3>MICROAPPS</h3>
 
-<p>
-Herramientas pequeñas y especializadas para resolver tareas concretas.
-</p>
+Herramientas pequeñas y especializadas<br>
+para resolver tareas concretas.
 
 </td>
 
@@ -72,37 +76,35 @@ Herramientas pequeñas y especializadas para resolver tareas concretas.
 
 <tr>
 
-<td align="center" width="33%" valign="middle">
+<td align="center" valign="middle" width="33%">
 
 <h3>AUTOMATIZACIÓN</h3>
 
-<p>
-Procesos y herramientas diseñadas para reducir tareas repetitivas.
-</p>
+Procesos y herramientas diseñadas<br>
+para reducir tareas repetitivas.
 
 </td>
 
-<td align="center" width="33%" valign="middle">
+<td align="center" valign="middle" width="33%">
 
 <h3>DATOS</h3>
 
-<p>
-Diseño y gestión de estructuras de datos para aplicaciones y sistemas.
-</p>
+Diseño y gestión de estructuras de datos<br>
+para aplicaciones y sistemas.
 
 </td>
 
-<td align="center" width="33%" valign="middle">
+<td align="center" valign="middle" width="33%">
 
 <h3>IA</h3>
 
-<p>
-Exploración y desarrollo de soluciones basadas en inteligencia artificial.
-</p>
+Exploración y desarrollo de soluciones<br>
+basadas en inteligencia artificial.
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -113,11 +115,11 @@ Exploración y desarrollo de soluciones basadas en inteligencia artificial.
 
 <br>
 
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" height="38" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="38" />
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=68A063" height="38" />
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" height="38" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="38" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" height="44" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="44" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=68A063" height="44" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" height="44" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="44" />
 
 </div>
 
@@ -129,36 +131,43 @@ Exploración y desarrollo de soluciones basadas en inteligencia artificial.
 
 </div>
 
-<table>
+<table align="center" width="100%" cellpadding="30">
+
 <tr>
 
-<td width="50%" valign="middle">
-
-<div align="center">
-
-<br>
+<td align="center" valign="middle" width="50%">
 
 <h3>💳 Billetera Digital & Sistema de Pedidos</h3>
 
+<br>
+
 <p>
-Sistema web integral desarrollado para <strong>Cambridge College</strong>.
+Sistema web integral desarrollado para
+<strong>Cambridge College</strong>.
 </p>
 
 <p>
-Plataforma orientada a la gestión de usuarios, recargas, pedidos y operaciones dentro del entorno institucional.
+Plataforma orientada a la gestión de usuarios,
+recargas, pedidos y operaciones dentro del entorno institucional.
 </p>
+
+<br>
 
 <strong>Componentes principales</strong>
 
-<ul align="left">
-<li>Autenticación y control de acceso por roles</li>
-<li>Panel administrativo</li>
-<li>Gestión de usuarios y permisos</li>
-<li>Módulo de recargas</li>
-<li>Gestión de pedidos</li>
-<li>Integración de pagos mediante Yape / Plin</li>
-<li>Gestión del flujo de atención y preparación</li>
-</ul>
+<br><br>
+
+<p align="center">
+• Autenticación y control de acceso por roles<br>
+• Panel administrativo<br>
+• Gestión de usuarios y permisos<br>
+• Módulo de recargas<br>
+• Gestión de pedidos<br>
+• Integración de pagos mediante Yape / Plin<br>
+• Gestión del flujo de atención y preparación
+</p>
+
+<br>
 
 <strong>Stack</strong>
 
@@ -166,31 +175,32 @@ Plataforma orientada a la gestión de usuarios, recargas, pedidos y operaciones 
 
 <code>React</code> · <code>Node.js</code> · <code>PostgreSQL</code>
 
-<br><br>
-
-</div>
+<br>
 
 </td>
 
-<td width="50%" valign="middle">
-
-<div align="center">
-
-<br>
+<td align="center" valign="middle" width="50%">
 
 <h3>🤖 ABI — Asistente Virtual</h3>
 
-<p>
+<br>
+
 <strong>🚧 En desarrollo</strong>
+
+<br><br>
+
+<p>
+Proyecto de asistente virtual desarrollado desde cero
+para explorar interacción mediante voz, automatización
+y control del entorno de escritorio.
 </p>
 
 <p>
-Proyecto de asistente virtual desarrollado desde cero para explorar interacción mediante voz, automatización y control del entorno de escritorio.
+El proyecto continúa en desarrollo y sus funcionalidades
+se irán ampliando progresivamente.
 </p>
 
-<p>
-El proyecto continúa en desarrollo y sus funcionalidades se irán ampliando progresivamente.
-</p>
+<br>
 
 <strong>Tecnología principal</strong>
 
@@ -198,13 +208,12 @@ El proyecto continúa en desarrollo y sus funcionalidades se irán ampliando pro
 
 <code>Python</code>
 
-<br><br><br><br>
-
-</div>
+<br>
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -215,9 +224,11 @@ El proyecto continúa en desarrollo y sus funcionalidades se irán ampliando pro
 
 Un espacio para experimentar, construir y convertir nuevas ideas en proyectos digitales.
 
+<br>
+
 **Web · Microapps · Automatización · IA · Sistemas · Herramientas**
 
-<br>
+<br><br>
 
 *Más proyectos en desarrollo.*
 

@@ -23,15 +23,9 @@ Construyo soluciones digitales para convertir ideas y necesidades reales en herr
 
 </div>
 
-<p align="center">
-Soy <strong>Anthony Ipenza</strong>, desarrollador enfocado en la creación de
-<strong>sistemas web, soluciones a medida y herramientas digitales</strong>.
-</p>
+Soy **Anthony Ipenza**, desarrollador enfocado en la creación de **sistemas web, soluciones a medida y herramientas digitales**.
 
-<p align="center">
-Me interesa transformar necesidades reales en productos funcionales,
-combinando desarrollo, automatización y gestión de datos.
-</p>
+Me interesa transformar necesidades reales en productos funcionales, combinando desarrollo, automatización y gestión de datos.
 
 ---
 
@@ -41,34 +35,30 @@ combinando desarrollo, automatización y gestión de datos.
 
 </div>
 
-<table align="center" width="100%" cellpadding="18">
-
+<table>
 <tr>
 
-<td align="center" valign="middle" width="33%">
+<td align="center" width="33%" valign="middle">
 
-<h3>WEB</h3>
+### WEB
 
-Aplicaciones y plataformas web<br>
-orientadas a necesidades específicas.
-
-</td>
-
-<td align="center" valign="middle" width="33%">
-
-<h3>SISTEMAS</h3>
-
-Soluciones a medida adaptadas<br>
-a los procesos de cada proyecto.
+Aplicaciones y plataformas web orientadas a necesidades específicas.
 
 </td>
 
-<td align="center" valign="middle" width="33%">
+<td align="center" width="33%" valign="middle">
 
-<h3>MICROAPPS</h3>
+### SISTEMAS
 
-Herramientas pequeñas y especializadas<br>
-para resolver tareas concretas.
+Soluciones a medida adaptadas a los procesos de cada proyecto.
+
+</td>
+
+<td align="center" width="33%" valign="middle">
+
+### MICROAPPS
+
+Herramientas pequeñas y especializadas para resolver tareas concretas.
 
 </td>
 
@@ -76,35 +66,31 @@ para resolver tareas concretas.
 
 <tr>
 
-<td align="center" valign="middle" width="33%">
+<td align="center" width="33%" valign="middle">
 
-<h3>AUTOMATIZACIÓN</h3>
+### AUTOMATIZACIÓN
 
-Procesos y herramientas diseñadas<br>
-para reducir tareas repetitivas.
-
-</td>
-
-<td align="center" valign="middle" width="33%">
-
-<h3>DATOS</h3>
-
-Diseño y gestión de estructuras de datos<br>
-para aplicaciones y sistemas.
+Procesos y herramientas diseñadas para reducir tareas repetitivas.
 
 </td>
 
-<td align="center" valign="middle" width="33%">
+<td align="center" width="33%" valign="middle">
 
-<h3>IA</h3>
+### DATOS
 
-Exploración y desarrollo de soluciones<br>
-basadas en inteligencia artificial.
+Diseño y gestión de estructuras de datos para aplicaciones y sistemas.
+
+</td>
+
+<td align="center" width="33%" valign="middle">
+
+### IA
+
+Exploración y desarrollo de soluciones basadas en inteligencia artificial.
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -115,11 +101,11 @@ basadas en inteligencia artificial.
 
 <br>
 
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" height="44" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="44" />
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=68A063" height="44" />
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" height="44" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="44" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="40" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=68A063" height="40" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" height="40" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="40" />
 
 </div>
 
@@ -131,89 +117,49 @@ basadas en inteligencia artificial.
 
 </div>
 
-<table align="center" width="100%" cellpadding="30">
-
+<table>
 <tr>
 
 <td align="center" valign="middle" width="50%">
 
-<h3>💳 Billetera Digital & Sistema de Pedidos</h3>
+### 💳 Billetera Digital & Sistema de Pedidos
 
-<br>
+Sistema web integral desarrollado para **Cambridge College**.
 
-<p>
-Sistema web integral desarrollado para
-<strong>Cambridge College</strong>.
-</p>
+Plataforma orientada a la gestión de usuarios, recargas, pedidos y operaciones institucionales.
 
-<p>
-Plataforma orientada a la gestión de usuarios,
-recargas, pedidos y operaciones dentro del entorno institucional.
-</p>
+**Incluye**
 
-<br>
+• Autenticación y control de acceso por roles  
+• Panel administrativo  
+• Gestión de usuarios y permisos  
+• Módulo de recargas  
+• Gestión de pedidos  
+• Integración de pagos mediante Yape / Plin
 
-<strong>Componentes principales</strong>
+**Stack**
 
-<br><br>
-
-<p align="center">
-• Autenticación y control de acceso por roles<br>
-• Panel administrativo<br>
-• Gestión de usuarios y permisos<br>
-• Módulo de recargas<br>
-• Gestión de pedidos<br>
-• Integración de pagos mediante Yape / Plin<br>
-• Gestión del flujo de atención y preparación
-</p>
-
-<br>
-
-<strong>Stack</strong>
-
-<br><br>
-
-<code>React</code> · <code>Node.js</code> · <code>PostgreSQL</code>
-
-<br>
+`React` · `Node.js` · `PostgreSQL`
 
 </td>
 
 <td align="center" valign="middle" width="50%">
 
-<h3>🤖 ABI — Asistente Virtual</h3>
+### 🤖 ABI — Asistente Virtual
 
-<br>
+**🚧 En desarrollo**
 
-<strong>🚧 En desarrollo</strong>
+Proyecto de asistente virtual desarrollado desde cero para explorar interacción mediante voz, automatización y control del entorno de escritorio.
 
-<br><br>
+El proyecto continúa en desarrollo y sus funcionalidades se irán ampliando progresivamente.
 
-<p>
-Proyecto de asistente virtual desarrollado desde cero
-para explorar interacción mediante voz, automatización
-y control del entorno de escritorio.
-</p>
+**Tecnología principal**
 
-<p>
-El proyecto continúa en desarrollo y sus funcionalidades
-se irán ampliando progresivamente.
-</p>
-
-<br>
-
-<strong>Tecnología principal</strong>
-
-<br><br>
-
-<code>Python</code>
-
-<br>
+`Python`
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -224,11 +170,9 @@ se irán ampliando progresivamente.
 
 Un espacio para experimentar, construir y convertir nuevas ideas en proyectos digitales.
 
-<br>
-
 **Web · Microapps · Automatización · IA · Sistemas · Herramientas**
 
-<br><br>
+<br>
 
 *Más proyectos en desarrollo.*
 

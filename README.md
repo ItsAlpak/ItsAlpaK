@@ -1,33 +1,39 @@
-# 🦙 Alpak.exe
+<div align="center">
 
-## Web & Tools
+# 🦙 ALPAK.EXE
 
-> Desarrollo soluciones digitales, herramientas web y sistemas a medida para convertir ideas en productos funcionales.
+### WEB & TOOLS
+
+**Desarrollo web · Sistemas a medida · Automatización**
+
+Construyo soluciones digitales enfocadas en resolver necesidades reales.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ItsAlpak-181717?style=for-the-badge&logo=github)](https://github.com/ItsAlpak)
+[![TikTok](https://img.shields.io/badge/TikTok-@alpak.exe-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@alpak.exe)
+
+</div>
 
 ---
 
-### 👋 Sobre mí
+## 👋 Sobre mí
 
-Soy **Anthony Ipenza**, desarrollador enfocado en la creación de soluciones digitales y sistemas a medida.
+Soy **Anthony Ipenza**, desarrollador enfocado en la creación de **sistemas web y soluciones a medida**.
 
-Me interesa transformar necesidades reales en herramientas que sean útiles, funcionales y fáciles de utilizar.
+Me interesa transformar ideas y necesidades reales en plataformas funcionales, combinando desarrollo, automatización y gestión de datos.
 
-Actualmente desarrollo proyectos relacionados con:
+### ⚙️ Lo que desarrollo
 
-- 🌐 Desarrollo web
-- ⚙️ Sistemas a medida
-- 🧩 Microapps y herramientas digitales
+- 🌐 Aplicaciones web
+- 🖥️ Sistemas a medida
 - 🤖 Automatización de procesos
-- 🗄️ Gestión y desarrollo de bases de datos
-- 💻 Aplicaciones y soluciones personalizadas
-
-**Alpak.exe** nace como mi espacio para experimentar, construir y convertir ideas en herramientas reales.
+- 🗄️ Sistemas con bases de datos
+- 🔧 Herramientas digitales personalizadas
 
 ---
 
-## 🧠 Tecnologías
-
-### Desarrollo
+## 💻 Tecnologías
 
 <p align="left">
 
@@ -45,139 +51,60 @@ Actualmente desarrollo proyectos relacionados con:
 
 ---
 
-## 🛠️ ¿Qué construyo?
-
-### 🌐 Aplicaciones Web
-
-Interfaces y aplicaciones web pensadas para resolver necesidades específicas.
-
-Desde herramientas pequeñas hasta plataformas con diferentes módulos y funcionalidades.
-
-### ⚙️ Sistemas a Medida
-
-Desarrollo de sistemas adaptados al flujo de trabajo de cada proyecto.
-
-La idea no es adaptar un negocio a una herramienta genérica, sino construir la herramienta alrededor de la necesidad.
-
-### 🧩 Microapps
-
-Pequeñas aplicaciones enfocadas en resolver una tarea concreta.
-
-Algunas pueden ser:
-
-- Calculadoras especializadas
-- Generadores
-- Formularios inteligentes
-- Herramientas internas
-- Utilidades para negocios
-- Interfaces interactivas
-
-### 🤖 Automatizaciones
-
-Herramientas destinadas a reducir tareas repetitivas y mejorar procesos.
-
-### 🗄️ Bases de Datos
-
-Diseño y gestión de estructuras de datos para aplicaciones y sistemas.
-
----
-
 # 🚀 Proyectos
 
-Esta sección irá creciendo conforme vaya desarrollando nuevos proyectos.
+## 💳 Billetera Digital & Sistema de Pedidos
 
-## 💳 Sistema Web de Pedidos y Billetera Digital
+**Sistema web integral desarrollado para Cambridge College.**
 
-Sistema web integral desarrollado para **Cambridge College**.
+Plataforma orientada a la gestión de usuarios, operaciones y pedidos dentro del entorno institucional.
 
-Incluye:
+### Incluye
 
-- Inicio de sesión
-- Sistema multi-rol
-- Administración
-- Cocina
-- Alumnos
-- Gestión de pedidos
-- Integración de pagos locales
+- 🔐 Sistema de autenticación y acceso por roles
+- 🖥️ Panel administrativo
+- 👥 Gestión diferenciada de usuarios
+- 💰 Módulo de recargas
+- 🛒 Gestión de pedidos
+- 💳 Integración de pagos mediante Yape / Plin
+- 🍽️ Gestión del flujo de atención y preparación de pedidos
 
-**Tecnologías:** React · Node.js · PostgreSQL
+**Stack:** `React` · `Node.js` · `PostgreSQL`
 
 ---
 
 ## 🤖 ABI — Asistente Virtual
 
-Proyecto de asistente virtual desarrollado desde cero para experimentar con interacción mediante voz y automatización del entorno de escritorio.
+🚧 **Proyecto en desarrollo**
 
-**Estado:** 🚧 En desarrollo
+Asistente virtual desarrollado desde cero con el objetivo de experimentar con **interacción por voz, automatización y control del entorno de escritorio**.
 
-**Tecnología principal:** Python
+El proyecto continúa en desarrollo y se irá ampliando progresivamente.
 
----
-
-## 🦙 Alpak.exe Projects
-
-Espacio destinado a nuevos experimentos y productos digitales desarrollados bajo la marca **Alpak.exe**.
-
-Aquí iré publicando proyectos, herramientas, demos y experimentos que formen parte del ecosistema.
+**Tecnología principal:** `Python`
 
 ---
 
-# 🔬 En desarrollo
+# 🧪 Alpak.exe Lab
 
-Actualmente estoy explorando y construyendo proyectos relacionados con:
+Espacio donde desarrollo y experimento con nuevas ideas relacionadas con:
 
-- 🌐 Aplicaciones web modernas
-- 🧩 Microapps
-- ⚙️ Automatización
-- 🤖 Inteligencia artificial
-- 🗄️ Sistemas con bases de datos
-- 📱 Herramientas digitales
-- 🎨 Experiencias web interactivas
-- 💡 Productos digitales
+**Web · Automatización · IA · Sistemas · Herramientas digitales**
+
+Aquí irán apareciendo nuevos proyectos y experimentos conforme sean desarrollados.
 
 ---
 
-# 🎯 Mi enfoque
+<div align="center">
 
-No se trata solamente de programar.
+### 🦙 ALPAK.EXE
 
-Mi objetivo es:
+**Ideas → Código → Soluciones**
 
-**Idea → Diseño → Desarrollo → Automatización → Producto**
-
-Busco crear herramientas que tengan una función real y que puedan convertirse en soluciones útiles para personas, negocios e instituciones.
-
----
-
-# 📚 Aprendiendo constantemente
-
-La tecnología cambia constantemente y este perfil también.
-
-Por eso utilizo GitHub como un espacio para:
-
-- Experimentar
-- Aprender
-- Construir
-- Documentar
-- Mejorar proyectos
-- Probar nuevas tecnologías
-
----
-
-# 📫 Contacto
-
-📧 **thonyipalba@gmail.com**
+<br>
 
 📍 Lima, Perú
 
----
+📧 **thonyipalba@gmail.com**
 
-## 🦙 ALPAK.EXE
-
-### WEB & TOOLS
-
-**Construyendo ideas que se convierten en herramientas.**
-
----
-
-⭐ Si llegaste hasta aquí, gracias por visitar mi espacio.
+</div>

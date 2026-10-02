@@ -37,6 +37,7 @@ Me interesa transformar necesidades reales en productos funcionales, combinando 
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
 ### WEB
@@ -60,9 +61,11 @@ Soluciones a medida adaptadas a los procesos de cada proyecto.
 Herramientas pequeñas y especializadas para resolver tareas concretas.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="33%">
 
 ### AUTOMATIZACIÓN
@@ -86,6 +89,7 @@ Diseño y gestión de estructuras de datos para aplicaciones y sistemas.
 Exploración y desarrollo de soluciones basadas en inteligencia artificial.
 
 </td>
+
 </tr>
 </table>
 
@@ -97,24 +101,28 @@ Exploración y desarrollo de soluciones basadas en inteligencia artificial.
 
 <br>
 
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=68A063" />
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" height="32" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=68A063" height="32" />
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" height="32" />
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" height="32" />
 
 </div>
 
 ---
 
-## Proyectos
+<div align="center">
+
+## 🚀 Proyectos
+
+</div>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 💳 Billetera Digital & Sistema de Pedidos
+<h3 align="center">Billetera Digital & Sistema de Pedidos</h3>
 
 Sistema web integral desarrollado para **Cambridge College**.
 
@@ -138,9 +146,9 @@ Plataforma orientada a la gestión de usuarios, recargas, pedidos y operaciones 
 
 <td width="50%" valign="top">
 
-### 🤖 ABI — Asistente Virtual
+<h3 align="center">🤖 ABI — Asistente Virtual</h3>
 
-**🚧 En desarrollo**
+<p align="center"><strong>🚧 En desarrollo</strong></p>
 
 Proyecto de asistente virtual desarrollado desde cero para explorar interacción mediante voz, automatización y control del entorno de escritorio.
 

@@ -19,7 +19,13 @@
 
 <div align="center">
 
-## Sobre mí
+### Sobre mí
+
+</div>
+
+---
+
+<div align="center">
 
 Soy **Anthony Ipenza**, desarrollador enfocado en la creación de **sistemas web, soluciones a medida y herramientas digitales**.
 
@@ -31,9 +37,11 @@ Me interesa transformar necesidades reales en productos funcionales,<br>combinan
 
 <div align="center">
 
-## Lo que desarrollo
+### Lo que desarrollo
 
 </div>
+
+---
 
 <table align="center">
 <tr>
@@ -84,38 +92,40 @@ Exploración y desarrollo de soluciones basadas en inteligencia artificial.
 
 <div align="center">
 
-## Tecnologías
-
-<br>
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="72" height="72" title="React" alt="React" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="72" height="72" title="JavaScript" alt="JavaScript" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="72" height="72" title="Node.js" alt="Node.js" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="72" height="72" title="Python" alt="Python" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="72" height="72" title="PostgreSQL" alt="PostgreSQL" />
-</p>
+### Tecnologías
 
 </div>
 
 ---
 
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" title="React" alt="React" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" title="JavaScript" alt="JavaScript" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" height="60" title="Node.js" alt="Node.js" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" title="Python" alt="Python" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60" title="PostgreSQL" alt="PostgreSQL" />
+</p>
+
+---
+
 <div align="center">
 
-## 🚀 Proyectos
+### 🚀 Proyectos
 
 </div>
+
+---
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">💳<br>Billetera Digital & Sistema de Pedidos</h3>
+<h3 align="center">💳<br>Billetera Digital<br>& Sistema de Pedidos</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Cliente-Cambridge%20College-1e3a8a?style=flat-square" />
@@ -141,7 +151,7 @@ Sistema web integral desarrollado para **Cambridge College**, orientado a la ges
 
 <td width="50%" valign="top">
 
-<h3 align="center">🤖<br>ABI — Asistente Virtual</h3>
+<h3 align="center">🤖<br>ABI<br>Asistente Virtual</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Estado-En%20desarrollo-d97706?style=flat-square" />
@@ -150,12 +160,12 @@ Sistema web integral desarrollado para **Cambridge College**, orientado a la ges
 
 Asistente virtual personal desarrollado desde cero para funcionar en local, explorando voz, automatización y control del entorno de escritorio.
 
-**Incluye**
+**En desarrollo**
 
 - 🧠 IA local con Ollama (Qwen 2.5)
-- 🎭 Identidad y personalidad propias en español
+- 🎭 Identidad y personalidad en español
 - 💾 Memoria persistente de conversaciones
-- 🖥️ Automatización de escritorio con lista blanca
+- 🖥️ Automatización del escritorio
 - 🎙️ Interacción por voz · *Próximamente*
 - 📱 Acceso multidispositivo · *Próximamente*
 
@@ -172,13 +182,17 @@ Asistente virtual personal desarrollado desde cero para funcionar en local, expl
 
 <div align="center">
 
-## 🧪 Alpak.exe Lab
+### 🧪 Alpak.exe Lab
+
+</div>
+
+---
+
+<div align="center">
 
 Un espacio para experimentar, construir y convertir nuevas ideas en proyectos digitales.
 
 **Web &nbsp;·&nbsp; Microapps &nbsp;·&nbsp; Automatización &nbsp;·&nbsp; IA &nbsp;·&nbsp; Sistemas &nbsp;·&nbsp; Herramientas**
-
-<br>
 
 *Más proyectos en desarrollo.*
 
@@ -191,8 +205,6 @@ Un espacio para experimentar, construir y convertir nuevas ideas en proyectos di
 ### ALPAK.EXE
 
 **Ideas → Código → Soluciones**
-
-<br>
 
 Lima, Perú · **thonyipalba@gmail.com**
 
